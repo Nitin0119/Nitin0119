@@ -22,6 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=python, mysql, postgres, sklearn, pycharm, vscode, git, github, docker, gcp" alt="My Skills">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sklearn,pycharm,vscode,git,github,docker,gcp" alt="My Skills">
 </a>
 </p>
