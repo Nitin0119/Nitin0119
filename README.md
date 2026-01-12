@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, This is Nitin</h1>
 <h3 align="center">I identify myself as a problem solver. My pronouns are do/fail/doAgain</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" alt="Problem Solver GIF" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpuMDIxNnR2cmtxZHZ4cWlrMTZ6ampraW1oNjZxMHN4cDRtZ3JzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/21I1WOUDnct4EmSNa6/giphy.gif" alt="Problem Solver GIF" width="300" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiwal&label=Profile%20views&color=0e75b6&style=flat" alt="jaiwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiwal&label=Profile%20views&color=0e75b6&style=flat" alt="nitin" /> </p>
 
 - 🔭 I’m professionally working as an **independent contributor to my journey**
 
