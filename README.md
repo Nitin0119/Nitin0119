@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/nitin0119/**
 
-- ⚡ Fun fact : **we are dying : )**
+- ⚡ Fun fact : **Your brain named itself :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
