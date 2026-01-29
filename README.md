@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Google Cloud, Model Deployment, Problem solving**
 
-- 👯 I’m looking to collaborate on machine learning and business analysis projects
-
-- 📫 How to reach me **https://www.linkedin.com/in/nitin0119/**
+- 👯 I’m looking to collaborate on Machine Learning and Data Analysis projects
 
 - ⚡ Fun fact : **Your brain named itself :)**
 
